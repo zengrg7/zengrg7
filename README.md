@@ -41,5 +41,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zengrg7&show_icons=true&locale=en" alt="zengrg7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zengrg7&" alt="zengrg7" /></p>
-
