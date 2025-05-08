@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zengrg7" alt="zengrg7" /></a> </p>
 
-- 🔭 I’m currently working on [Travel Booking Website](https://alpine-club-of-himalaya.vercel.app)
+[//]: #- 🔭 I’m currently working on [Travel Booking Website](https://alpine-club-of-himalaya.vercel.app)
 
 - 🌱 I’m currently learning **Docker**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bijeng695@gmail.com**
 
-- 📄 Know about my experiences [https://www.bijengurung.com.np/Bijen%20Gurung's%20Resume.pdf](https://www.bijengurung.com.np/Bijen%20Gurung's%20Resume.pdf)
+- 📄 Know about my experiences [https://www.bijengurung.com.np/resume.pdf](https://www.bijengurung.com.np/resume.pdf)
 
 - ⚡ Fun fact **I am very funny and good listener.**
 
